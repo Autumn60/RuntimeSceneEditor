@@ -6,7 +6,7 @@
     "unity": "2021.1",
     "dependencies": {
       "com.unity.textmeshpro": "3.0.4",
-      "com.autumn60-runtime-transform-handle": "0.1.0"
+      "com.autumn60.runtime-transform-handle": "0.1.0"
     },
     "keywords": [
     ]
